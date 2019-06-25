@@ -78,3 +78,9 @@ main blockquote:before {
 main blockquote p {
   display: inline;
 }
+#left {
+    display: flex;
+}
+#right {
+    display: flex;
+}
